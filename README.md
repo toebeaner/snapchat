@@ -211,3 +211,10 @@ City - Country - Region
 ```
 Time - Latitude, Longitude
 ```
+
+# Search History
+**Search History**
+```
+Data and time (hourly) - Search Term - Location (Latitude, Longitude)
+```
+
