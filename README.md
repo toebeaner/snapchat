@@ -200,6 +200,7 @@ City - Country - Region
 City - Country - Region
 ```
 > Snapchat doesnt save the exact location but it saves usually between 800 and 25,000 square meters of the location.
+> 
 **Home & Work**
  
 **Daily Top Locations**
