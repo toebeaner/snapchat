@@ -241,4 +241,34 @@ Data & Time - People in Chat - People available - City - Country - Length (sec) 
 ```
 Data & Time - People in Chat - People available - City - Country - Length (sec) - Network
 ```
+
+# User Profile
+
+**Engagement**
+> Event	- Occurrences
+
 ```
+Application Opens	
+Story Views	
+Snaps Posted to Story	
+Snaps Viewed in a Story	
+Story Ads Viewed	
+Snap Views	
+Snap Sends	
+Chats Sent	
+Chats Viewed	
+Discover Editions Viewed	
+Discover Snap Views	
+Direct Snaps Created	
+Geofilter Story Snaps Viewed	
+Geolens Swipes	
+Direct Snaps Viewed	
+Geofilter Swipes	
+Geofilter Snap Sends	
+Geofilter Snaps Posted to Story	
+```
+
+**Interested Categories**
+> Will literally list off what your interested in, lowkey creepy.
+
+
