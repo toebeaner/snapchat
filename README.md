@@ -218,3 +218,27 @@ Time - Latitude, Longitude
 Data and time (hourly) - Search Term - Location (Latitude, Longitude)
 ```
 
+# Talk History
+> This section includes information about voice and video calls made through Snapchat.
+
+**Outgoing Calls**
+```
+Data & Time - Type - People in Chat - Result - City - Country - Length (sec) - Network
+```
+**Incoming Calls**
+```
+Data & Time - Type - People in Chat - Result - City - Country - Length (sec) - Network
+```
+**Completed Calls**
+```
+Data & Time - Type - People in Chat - City - Country - Length (sec) - Network
+```
+**Chat Sessions**
+```
+Data & Time - People in Chat - People available - City - Country - Length (sec) - Network
+```
+**Game Sessions**
+```
+Data & Time - People in Chat - People available - City - Country - Length (sec) - Network
+```
+```
