@@ -1,5 +1,14 @@
 # Snapchat Data Review
-Snapchat doesnt auto delete your data after 30 days, you can download your data [**here**](https://accounts.snapchat.com/accounts/downloadmydata).
+- We won't be covering all aspects of the data file, just the important stuff.
+```
+Your key account information is available in the Snapchat app, including your name, username, birthday, mobile number, email, Snapchatters you've blocked, Memories, Bitmoji, Snapcode, your orders (like custom Filters and Lenses), information about Spectacles, and Shazam history.
+
+In addition to this information, Snap also retains logs of activities on our services, like when you click on an ad, view a Story, or send a Snap. These logs record specific actions and don't contain the content of your Snaps or Chats. We use these logs to understand how our services are being used so we can provide and improve our apps, report aggregate metrics (like "daily active users"), and improve the security of our services.
+
+Typically, logs are retained for 180 days but, in some cases, we may need to retain these logs for much longer. For example, we may need to store some logs for the lifetime of your account.
+```
+`You can download your data` [**here**](https://accounts.snapchat.com/accounts/downloadmydata).
+
 
 
 # Full list of data before we take a look
@@ -109,8 +118,8 @@ Snapchat doesnt auto delete your data after 30 days, you can download your data 
 ```
 
 # Interesting Facts
-> Snapchat save's your scans (the full picture).
-> Message data from other user's wont show if you block them.
+> If an attacker somehow obtains your email & snapchat account, they could get alot of information on you.
+
 
 # Account Data
 **Basic Information**
@@ -181,5 +190,5 @@ From - Media Type - Created
 Message
 ```
 
-
+# 
 
