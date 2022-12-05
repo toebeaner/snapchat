@@ -10,9 +10,13 @@ Typically, logs are retained for 180 days but, in some cases, we may need to ret
 `You can download your data` [**here**](https://accounts.snapchat.com/accounts/downloadmydata).
 
 
+# Interesting Facts Before You Read
+- If an attacker somehow obtains your email & snapchat account, they could get alot of information on you.
+- You can delete most of this data via the app, site or support.
+- Snapchat doesnt really explain how much data they use, but they do explain why.
+- All sensitive data is private but authorities can requests this.
 
 # Full list of data before we take a look
-
 **Data Available In-App**
 ```
 · Name
@@ -117,10 +121,8 @@ Typically, logs are retained for 180 days but, in some cases, we may need to ret
 ✓ Snap Map Places
 ```
 
-# Interesting Facts
-> If an attacker somehow obtains your email & snapchat account, they could get alot of information on you.
-
-
+## Data review
+- **Not going over everything, just sensitive data.**
 # Account Data
 **Basic Information**
 ```
@@ -153,6 +155,13 @@ Country:
 Created:
 Status:
 Device:
+```
+
+# Friending IP UserAgent
+
+**Friending IP UserAgent**
+```
+Action - Type - IP Address - Sender Name - Receiver Name - User Agent - Creation Timestamp
 ```
 
 # Bitmoji, everyone uses this.
@@ -210,6 +219,10 @@ City - Country - Region
 **Location History**
 ```
 Time - Latitude, Longitude
+```
+**Snap Map Places History**
+```
+Date - Place - Place Location - Share Type
 ```
 
 # Search History
